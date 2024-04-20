@@ -1,6 +1,11 @@
 # HTML Y CSS HERRAMIENTAS I : PEC 1 - BOILERPLATE
 
-## INSTALACIONES
+## LINK DEMO:
+
+https://6623dcc0b7c8a1ebb95bbc61--fascinating-yeot-5a0993.netlify.app/html/enlaces
+
+
+## INSTALACIONES REALIZADAS
 
 ### BREW
 
@@ -64,12 +69,12 @@ npm install npm-run-all --save-dev
 npm i -D posthtml-include
 /// Añadir archivo .posthtmlrc
 ```
-## COMPILAR
+## COMPILAR WEB
 
 ```
 npm start
 ```
-
+## PREPARACIÓN DESPLIEGUE
 ```
 npm build
 ```
