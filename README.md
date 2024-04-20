@@ -2,7 +2,7 @@
 
 ## LINK DEMO:
 
-https://6623dcc0b7c8a1ebb95bbc61--fascinating-yeot-5a0993.netlify.app/html/enlaces
+https://6623e9461dda68eb75c2c2bc--elaborate-lebkuchen-555b29.netlify.app/html/categoria
 
 
 ## INSTALACIONES REALIZADAS
