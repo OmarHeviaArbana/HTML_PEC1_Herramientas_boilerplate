@@ -384,10 +384,10 @@ div.cardBlog div a.btnLinkCard:hover {
 
 
 article {
-    display: grid;
+   
     grid-template-columns: 1fr;
-    margin: 0 10% 80px;
-    padding: 20px 40px 40px;
+    margin: 0 2% 80px;
+    padding: 20px 60px 40px;
 }
 
 .articlesSection    {
@@ -414,7 +414,7 @@ article div.cardBlog h4  {
     margin-bottom: 15px;
 }
 article div.cardBlog h4 a {
-    font-size: 2.5rem;
+    font-size: 2rem;
     text-decoration: none;
     color: var(--red);
     line-height: 1.1; 
