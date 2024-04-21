@@ -2,8 +2,7 @@
 
 ## LINK DEMO:
 
-https://6623e9461dda68eb75c2c2bc--elaborate-lebkuchen-555b29.netlify.app/html/categoria
-
+https://6623f3a2cfeeb5f628a14022--elaborate-lebkuchen-555b29.netlify.app
 
 ## INSTALACIONES REALIZADAS
 
